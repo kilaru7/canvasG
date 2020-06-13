@@ -1,0 +1,62 @@
+
+#about{
+	padding-top:10px;
+	font-size: 22px;
+}
+
+#instructions{
+	padding-top:30px;
+	font-size: 20px;
+}
+
+#mainBox{
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top: 70px;
+	margin-left:330px;
+	height:200px;
+	width:600px;
+	border: 2px solid maroon;
+	text-align:center;
+	color:maroon;
+}
+
+.link{
+	text-decoration:none;
+	color:white;
+}
+
+body{
+	background-color:rgb(255,225,225);
+}
+
+
+#start{
+	position:absolute;
+	height:50px;
+	width:200px;
+	font-size:20px;
+	background-color:maroon;
+	bottom:160px;
+	left:530px;
+}
+
+#jet{
+  opacity: 0.4;
+  height: 300px;
+  width: 500px;
+  position: absolute;
+  bottom:160px;
+	left:30px;
+	transform: rotate(20deg);
+}
+
+#target{
+  opacity: 0.4;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  bottom:100px;
+	right:100px;
+}

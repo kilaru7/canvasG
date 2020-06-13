@@ -1,0 +1,58 @@
+
+#myCanvas{
+border: none;
+margin-left:30px;
+margin-top: 30px;
+display: block;
+}
+
+#score{
+	position:absolute;
+	right:80px;
+	top:60px;
+	color:maroon;
+	font-size: 20px;
+}
+
+#scoreCount{
+	position:absolute;
+	height:70px;
+	width:120px;
+	right:50px;
+	top:50px;
+	color:maroon;
+	font-size:60px;
+	text-align:center;
+}
+
+#restart{
+	position:absolute;
+	right:60px;
+	bottom:200px;
+	text-decoration:none;
+	height:20px;
+	width:100px;
+	font-size:10px;
+	background-color:maroon;
+}
+
+#home{
+	position:absolute;
+	right:60px;
+	bottom:170px;
+	text-decoration:none;
+	height:20px;
+	width:100px;
+	font-size:10px;
+	background-color:maroon;
+}
+
+.link{
+	text-decoration:none;
+	color:white;
+}
+
+body{
+	background-color:rgb(255,225,225);
+}
+
